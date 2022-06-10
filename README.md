@@ -4,7 +4,7 @@ i'm currently looking for a job 👨‍🎓😊, tho else do i mostly work on [L
 
 If you wanna contact me then Check out my Twitter [Biast12](https://twitter.com/Biast12) or [Biast12Private](https://twitter.com/Biast12Private) or DM me on Discord **Biast12 (Tobias)#0001**
 
-If you wanna help me out with paying this months rent, then this is my [Paypal](https://Paypal.me/Biast12) 
+If you wanna help me out with paying this months rent, then this is my [Paypal](https://Paypal.me/Biast12) or [BuyMeACoffee](https://www.buymeacoffee.com/Biast)
 
 My other social Links↓
 
