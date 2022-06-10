@@ -1,3 +1,5 @@
+![Banner](/images/Main-Header.png)
+
 ### Hey there👋 I'm [Biast12](https://twitter.com/Biast12) ❤️
 
 i'm currently looking for a job 👨‍🎓😊, tho else do i mostly work on [Legion+](https://github.com/r-ex/LegionPlus) and mentaining the biggest Apex Legends [assets archive](https://videndjurs-my.sharepoint.com/:f:/g/personal/tobi6281_videndjurs_net/EtBzMbGRzVZBjxlWqeSwdz4BYs55mYdxrNCvWHWCE8oRHQ?e=JwGdLq)
