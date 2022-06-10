@@ -1,4 +1,4 @@
-![Banner](/images/Main-Header.png)
+![Banner](/Main-Header.png)
 
 ### Hey there👋 I'm [Biast12](https://twitter.com/Biast12) ❤️
 
