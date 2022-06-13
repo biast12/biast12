@@ -10,9 +10,10 @@ If you wanna help me out with paying this months rent, then this is my [Paypal](
 
 My other social Links↓
 
+My [![Twitter](https://img.shields.io/twitter/follow/Biast12?style=social)](https://twitter.com/intent/follow?screen_name=Biast12)
 My [LinkTree](http://linktr.ee/biast12),
-My [YouTube](http://youtube.com/c/Biast12),
-My [Twitch](http://twitch.tv/biast12),
+My [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC8MNiXA0QTDElQDnj_xxvZg?style=social)](https://www.youtube.com/channel/UC8MNiXA0QTDElQDnj_xxvZg)
+My [![Twitch](https://img.shields.io/twitch/status/biast12?style=social)](https://www.twitch.tv/biast12)
 The [Apex Archive](https://videndjurs-my.sharepoint.com/:f:/g/personal/tobi6281_videndjurs_net/EtBzMbGRzVZBjxlWqeSwdz4BYs55mYdxrNCvWHWCE8oRHQ?e=JwGdLq)
 
 Also remember your smile looks pretty on you 🥰
