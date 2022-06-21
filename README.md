@@ -19,4 +19,5 @@ The [Apex Archive](https://videndjurs-my.sharepoint.com/:f:/g/personal/tobi6281_
 
 Also remember your smile looks pretty on you 🥰
 
+[![Support via PayPal](https://img.shields.io/badge/-Support%20via%20PayPal-brightgreen)](https://paypal.com/donate/?hosted_button_id=RWB2QFK7CKUM2)
 [![Twitter](https://img.shields.io/twitter/follow/Biast12?style=social)](https://twitter.com/intent/follow?screen_name=Biast12) [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC8MNiXA0QTDElQDnj_xxvZg?style=social)](https://www.youtube.com/channel/UC8MNiXA0QTDElQDnj_xxvZg) [![Twitch](https://img.shields.io/twitch/status/biast12?style=social)](https://www.twitch.tv/biast12)
