@@ -22,8 +22,5 @@ Also remember your smile looks pretty on you 🥰
 
 ![profile](https://discord.c99.nl/widget/theme-3/648679147085889536.png)
 
-![status](https://dev.discordprofiles.me/badge/status/648679147085889536?simple=true)
-![playing](https://dev.discordprofiles.me/badge/playing/648679147085889536)
-
 [![Support via PayPal](https://img.shields.io/badge/-Support%20via%20PayPal-brightgreen)](https://paypal.com/donate/?hosted_button_id=RWB2QFK7CKUM2)
 [![Twitter](https://img.shields.io/twitter/follow/Biast12?style=social)](https://twitter.com/intent/follow?screen_name=Biast12) [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC8MNiXA0QTDElQDnj_xxvZg?style=social)](https://www.youtube.com/channel/UC8MNiXA0QTDElQDnj_xxvZg) [![Twitch](https://img.shields.io/twitch/status/biast12?style=social)](https://www.twitch.tv/biast12)
