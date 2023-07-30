@@ -6,21 +6,15 @@
 
 i'm currently looking for a job 👨‍🎓😊, tho else do i mostly work on [Legion+](https://github.com/r-ex/LegionPlus) and mentaining the biggest Apex Legends [assets archive](https://biast12.site), if you wanna help me out with maintaining the archive can you join my [Patreon](http://patreon.com/Biast12)
 
-If you wanna contact me then Check out my Twitter [Biast12](https://twitter.com/Biast12) or [Biast12Private](https://twitter.com/Biast12Private) or DM me on Discord **Biast12 (Tobias)#0001**
+If you wanna contact me then Check out my Twitter [Biast12](https://twitter.com/Biast12) or DM me on Discord [Biast12](https://discordapp.com/channels/@me/648679147085889536)
 
-If you wanna help me out with paying this months rent, then this is my [Paypal](https://Paypal.me/Biast12) or [BuyMeACoffee](https://www.buymeacoffee.com/Biast)
+If you wanna help me out with paying this months rent, then this is my [Paypal](https://Paypal.me/Biast12) or [Patreon]([https://www.buymeacoffee.com/Biast](http://patreon.com/Biast12))
 
-My other social Links↓
-
-My [LinkTree](http://linktr.ee/biast12),
-My [Patreon](http://patreon.com/Biast12),
-My [YouTube](http://youtube.com/c/Biast12),
-My [Twitch](http://twitch.tv/biast12),
-The [Apex Archive](https://biast12.site)
+My [LinkTree](http://linktr.ee/biast12)
 
 Also remember your smile looks pretty on you 🥰
 
 ![profile](https://discord.c99.nl/widget/theme-3/648679147085889536.png)
 
 [![Join my Patreon](https://img.shields.io/badge/-Join%20my%20Patreon-brightgreen)](https://Patreon.com/Biast12)
-[![Twitter](https://img.shields.io/twitter/follow/Biast12?style=social)](https://twitter.com/intent/follow?screen_name=Biast12) [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC8MNiXA0QTDElQDnj_xxvZg?style=social)](https://www.youtube.com/channel/UC8MNiXA0QTDElQDnj_xxvZg) [![Twitch](https://img.shields.io/twitch/status/biast12?style=social)](https://www.twitch.tv/biast12)
+[![Twitter](https://img.shields.io/twitter/follow/Biast12?style=social)](https://twitter.com/intent/follow?screen_name=Biast12) [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC8MNiXA0QTDElQDnj_xxvZg?style=social)](https://www.youtube.com/channel/UC8MNiXA0QTDElQDnj_xxvZg)
