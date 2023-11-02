@@ -8,7 +8,7 @@ i'm currently looking for a job 👨‍🎓😊, tho else do i mostly work on [L
 
 If you wanna contact me then Check out my Twitter [Biast12](https://twitter.com/Biast12) or DM me on Discord [Biast12](https://discordapp.com/channels/@me/648679147085889536)
 
-If you wanna help me out with paying this months rent, then this is my [Paypal](https://Paypal.me/Biast12) or [Patreon]([https://www.buymeacoffee.com/Biast](http://patreon.com/Biast12))
+If you wanna help me out with paying this months rent, then this is my [Paypal](https://Paypal.me/Biast12) or [Patreon](http://patreon.com/Biast12)
 
 My [LinkTree](http://linktr.ee/biast12)
 
