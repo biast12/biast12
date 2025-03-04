@@ -11,7 +11,7 @@ const calculateAge = (birthday) => {
   return age;
 };
 
-const birthday = new Date(2000, 2, 28);
+const birthday = new Date(2000, 1, 28); // Month is 0-indexed, so 1 represents February
 const age = calculateAge(birthday);
 
 const readmePath = path.join(__dirname, "README.md");
