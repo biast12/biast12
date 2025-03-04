@@ -7,7 +7,7 @@ const Biast12 = {
   aboutMe: {
     pronouns: "he" | "him" | "weirdo",
     country: "Denmark",
-    age: 24
+    age: 25
   },
   frontend: [React, Next.js, HTML, CSS, TailwindCSS, Sass, C#, Wordpress],
   backend: [JavaScript, TypeScript, PHP, Python, Blazor],
