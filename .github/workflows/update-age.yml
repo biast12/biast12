@@ -2,31 +2,43 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 0 1 3 *" # Runs once a year on March 1st
+    - cron: "17 4 28 2 *"
   push:
     branches:
       - main
   workflow_dispatch:
 
+permissions: {}
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-
-      - name: Run update script
-        run: node update-age.js
+      - name: Update age
+        env:
+          TZ: Europe/Copenhagen
+          BIRTHDAY: 20000228
+        run: |
+          # Subtracting YYYYMMDD dates and dividing by 10000 gives whole years
+          age=$(( ($(date +%Y%m%d) - BIRTHDAY) / 10000 ))
+          if grep -qE '\bage: [0-9]+' README.md; then
+            sed -Ei "s/\bage: [0-9]+/age: $age/" README.md
+          else
+            echo "::warning::No 'age: N' line in README.md, age not updated"
+          fi
 
       - name: Commit and push changes
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --staged --quiet || git commit -m 'Update README with dynamic age'
-          git push
+          if ! git diff --staged --quiet; then
+            git commit -m "Update README with dynamic age"
+            git push
+          fi
