@@ -6,7 +6,7 @@
 const Biast12 = {
   aboutMe: {
     name: Tobias,
-    job_title: Developer,
+    job_title: Full-Stack Web and Software Developer,
     pronouns: he | him,
     country: Denmark,
     age: 26
